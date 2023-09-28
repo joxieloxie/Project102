@@ -1,0 +1,66 @@
+html, body
+
+.background
+{
+    color: black
+}
+
+h1 
+{
+    color:black; larger; font-family: sans-serif;
+    float: none; width:auto; height:auto;
+}
+
+.label
+{
+    color: black; font-size:xx-large
+}
+
+#mother
+{
+    background-color:darkorchid; font-family:'Courier New', Courier, monospace; font-size:x-large
+    float: left; width: 30%; height: 3%; border:round;
+}
+
+#father
+{
+    background-color:firebrick; font-family:'Courier New', Courier, monospace; font-size:x-large
+    float: left; width: 30%; height: 3%; border:round;
+}
+
+#brother1
+{
+    background-color:cornflowerblue; font-family:'Courier New', Courier, monospace; font-size:x-large
+    float: left; width: 30%; height: 3%; border:round;
+}
+
+#brother2
+{
+    background-color:limegreen; font-family:'Courier New', Courier, monospace; font-size:x-large
+    float: left; width: 30%; height: 3%; border:round;
+}
+
+#start
+{
+    background-color:thistle; font-family:'Times New Roman', Times, serif; font-size:medium;
+    float: left; width: 30%; height: 3%; border:round;
+}
+
+#camera
+{
+    border: 2px dashed black
+    height:10%; 
+    width:30%
+}
+
+#take
+{
+    background-color:rgb(57, 131, 156); font-size:larger; font-family: arial,sans-serif,monospace
+    width: 10%; height: 3%; float: none;
+}
+
+#identify
+{
+    background-color:rgb(38, 129, 47); font-size:large; font-family: arial,sans-serif,monospace 
+    width: 10%; height: 3%; float: none;
+}
